@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Olá! Eu sou a Kellen 🌸</h1>
 
 <p align="center">
-  <img src="./assets/sending_vitual_cat_love_by_chibird.gif" alt="carregando gatinho" width="200">
+  <img src="./assets/sending_vitual_cat_love_by_chibird.gif" alt="carregando gatinho" width="400">
 </p>
 
 💬 Apaixonada por tecnologia, aprendizado constante e por deixar tudo mais bonito (inclusive código!)  
@@ -46,7 +46,7 @@
 > Código limpo + criatividade + persistência = resultado fofo e funcional
 
 <p align="center">
-  <img src="./assets/you_can_do_it_by_chibird.gif" alt="gatinho feliz programando" width="300">
+  <img src="./assets/you_can_do_it_by_chibird.gif" alt="gatinho feliz programando" width="400">
 </p>
 
 ---
