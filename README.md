@@ -4,7 +4,7 @@
   <img src="./assets/sending_vitual_cat_love_by_chibird.gif" alt="carregando gatinho" width="400">
 </p>
 
-💬 Apaixonada por tecnologia, aprendizado constante e por deixar tudo mais bonito (inclusive código!)  
+💬 Apaixonada por tecnologia, aprendizado constante e por deixar tudo mais bonito, inclusive código! 
 💡 Explorando **Python**, **Java** e **Power BI**, com aquela dose extra de criatividade e bom humor.  
 😺 Gatinhos fofos são minha *fuel station* para energia e motivação.  
 
