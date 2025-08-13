@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Olá, mundo! Eu sou a Kellen 🌸</h1>
+<h1 align="center">🌸 Olá! Eu sou a Kellen 🌸</h1>
 
 <p align="center">
   <img src="./assets/sending_vitual_cat_love_by_chibird.gif" alt="carregando gatinho" width="200">
